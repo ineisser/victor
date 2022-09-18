@@ -1,0 +1,19 @@
+{
+  "name": "victor",
+  "version": "1.0.0",
+  "description": "IA Revisado de Tela",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ineisser/victor.git"
+  },
+  "author": "Leoncio Infante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ineisser/victor/issues"
+  },
+  "homepage": "https://github.com/ineisser/victor#readme"
+}
